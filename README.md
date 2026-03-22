@@ -1,6 +1,6 @@
-<!-- GLOWING DIVIDER - BOSS-MD STYLE -->
+<!-- GLOWING DIVIDER - SARGANI-MD STYLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&width=800&height=50&lines=🚀+WELCOME+TO+BOSS-MD+🚀;⚡+BOSS-MD+PRO+MAX+⚡;💫+BOSS-MD+IS+WORKING+💫" alt="BOSS-MD Header">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&width=800&height=50&lines=🚀+WELCOME+TO+MASOOD-MD+🚀;⚡+SARGANI-MD+PRO+MAX+⚡;💫+MASOOD-MD+IS+WORKING+💫" alt="MASOOD-MD Header">
 </div>
 
 <!-- ANIMATED BANNER -->
@@ -9,13 +9,13 @@
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">
-<img src="https://github.com/bosstech-collab/name.svg/blob/main/name.svg" width="400" alt="BOSS-MD Logo"/>
+<img src="https://github.com/bosstech-collab/name.svg/blob/main/name.svg" width="400" alt="SARGANI-MD Logo"/>
 </h1>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">
 <!-- GLOWING MAIN BADGE -->
 <div align="center">
-  <img src="https://img.shields.io/badge/🔥_BOSS_MD_ULTRA_PRO_MAX_EDITION-FF00FF?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000" alt="BOSS-MD Ultra Pro Max" />
+  <img src="https://img.shields.io/badge/🔥_MASOOD_MD_ULTRA_PRO_MAX_EDITION-FF00FF?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000" alt="BOSS-MD Ultra Pro Max" />
 </div>
 
 ---
@@ -29,14 +29,14 @@
   
   <!-- 🔥 Animated Holographic Image Frame -->
   <p align="center">
-    <a href="https://github.com/Boss453-dev/Boss-md-Ai-BOT">
+    <a href="https://github.com/Boss453-dev/MASOOD-md-Ai-BOT">
       <img src="https://files.catbox.moe/jl5wqr.jpg" alt="BOSS-MD" width="850" style="border-radius: 30px; border: 4px solid #FF00FF; box-shadow: 0 0 50px #00FFFF, 0 0 100px #FF00FF;" />
     </a>
   </p>
 
   <!-- 💫 SUPER ANIMATED BANNER -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=55&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&repeat=true&width=1200&height=120&lines=⚡+BOSS-MD+Powerful+Bot+⚡;Next+Gen+WhatsApp+AI+Bot;Fast+%7C+Secure+%7C+Multi-Device;Deploy+Now+and+Rule+🚀;🔥+Made+in+Pakistan+Boss+🔥" alt="BOSS-MD Animated Banner" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=55&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&repeat=true&width=1200&height=120&lines=⚡+SARGANI-MD+Powerful+Bot+⚡;Next+Gen+WhatsApp+AI+Bot;Fast+%7C+Secure+%7C+Multi-Device;Deploy+Now+and+Rule+🚀;🔥+Made+in+Pakistan+MASOOD+🔥" alt="MASOOD-MD Animated Banner" />
   </h1>
 
   <!-- 🌈 Premium Divider -->
@@ -47,13 +47,13 @@
   <!-- 👑 CROWN TITLE with Gradient -->
   <h1 align="center">
     <span style="background: linear-gradient(45deg, #ff00cc, #3333ff, #00ffcc, #ffcc00); -webkit-background-clip: text; color: transparent; font-size: 70px; font-weight: 700; text-shadow: 0 0 20px cyan, 0 0 40px magenta;">
-      ✨ BOSS-MD ✨
+      ✨ MASOOD-MD ✨
     </span>
   </h1>
 
   <!-- 🚀 POWER DESCRIPTION -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&width=800&lines=A+multi-device+WhatsApp+bot;Maintained+by+BOSS+🚀;The+Ultimate+AI+Experience" alt="Description">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&width=800&lines=A+multi-device+WhatsApp+bot;Maintained+by+MASOOD+🚀;The+Ultimate+AI+Experience" alt="Description">
   </p>
 <h2 align="left">📶 "Github stats"</h2>
 
@@ -86,20 +86,20 @@
 
 <h3>Some of my Projects:</h3>
 
-<a href="https://github.com/Boss-MD/Boss_MD">
+<a href="https://github.com/MASOOD-MD/MASOOD_MD">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Boss-MD&repo=Arslan_MD&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/Boss-MD/Boss-Tech-Bot">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Boss-MD&repo=Arslan-Tech-Bot&theme=dark&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/Boss-MD/SARGANI-Tech-Bot">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SARGANI-MD&repo=MASOOD-Tech-Bot&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/Boss-MD/Boss-Ai">
+<a href="https://github.com/Boss-MD/BALOCH-Ai">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Boss-MD&repo=Boss-Ai&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <a href="https://github.com/Boss-MD/IvaSms-api">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Boss-MD&repo=IvaSms-api&theme=dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=king-MD&repo=IvaSms-api&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -139,7 +139,7 @@
   <!-- ⭐ FORK & STAR BUTTONS -->
   <h2>⭐ Fork & Star</h2>
   <p align="center">
-    <a href="https://github.com/bosstech-collab/Boss-md-/fork">
+    <a href="https://github.com/bosstech-collab/sargani-md-/fork">
       <img src="https://img.shields.io/badge/FORK-REPO-ff00ff?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
     </a>
     <a href="https://github.com/bosstech-collab/Boss-md-/stargazers">
@@ -150,7 +150,7 @@
   <!-- 🔑 GET SESSION -->
   <h2>🔑 Get Session</h2>
   <p align="center">
-    <a href="https://pairing-site-boss-874t.onrender.com/pair">
+    <a href="https://pairing-site-sargani-874t.onrender.com/pair">
       <img src="https://img.shields.io/badge/GET-SESSION_ID-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black" />
     </a>
     <a href="https://replit.com/@Boss-MD/Session-Gen">
@@ -170,7 +170,7 @@
     <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/bosstech-collab/Boss-md-">
       <img src="https://img.shields.io/badge/DEPLOY-KOYEB-00BFFF?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=black" />
     </a>
-    <a href="https://render.com/deploy?repo=https://github.com/bosstech-collab/Boss-md-">
+    <a href="https://render.com/deploy?repo=https://github.com/sarganitech-collab/sargani-md-">
       <img src="https://img.shields.io/badge/DEPLOY-RENDER-20BEFF?style=for-the-badge&logo=render&logoColor=white&labelColor=black" />
     </a>
   </p>
@@ -178,14 +178,14 @@
   <!-- 📡 WHATSAPP CONNECTIONS -->
   <h2>📡 WhatsApp Connections</h2>
   <p align="center">
-    <a href="https://whatsapp.com/channel/0029VbC19OTHFxP2mYyAMy1G">
+    <a href="https://whatsapp.com/channel/0029VbBfSNwHVvTWSVv5bM12">
       <img src="https://img.shields.io/badge/JOIN-CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black" />
     </a>
-    <a href="https://api.whatsapp.com/send?phone=+923487690170&text=Hello+BOSS">
+    <a href="https://api.whatsapp.com/send?phone=+923487690170&text=Hello+SARGANI">
       <img src="https://img.shields.io/badge/CONTACT-OWNER-ff0000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black" />
     </a>
-    <a href="https://chat.whatsapp.com/YourGroupLink">
-      <img src="https://img.shields.io/badge/JOIN-GROUP-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black" />
+    <a href="https://whatsapp.com/channel/0029VbBfSNwHVvTWSVv5bM12">
+      <img src="https://whatsapp.com/channel/0029VbBfSNwHVvTWSVv5bM12-badge&logo=whatsapp&logoColor=white&labelColor=black" />
     </a>
   </p>
   
@@ -216,7 +216,7 @@
     <pre style="background: black; color: lime; padding: 20px; border-radius: 15px; border: 2px solid magenta; text-align: left;">
 # Clone Repository
 git clone https://github.com/bosstech-collab/Boss-md-
-cd Boss-md-
+cd SARGANI-md-
 
 # Install Dependencies
 npm install
@@ -246,7 +246,7 @@ npm run dev
   <table align="center" style="background: rgba(0,0,0,0.9); border-radius: 40px; border: 3px solid magenta; padding: 20px; width: 90%;">
     <tr>
       <td align="center" width="50%">
-        <h3>✨ BOSS-MD</h3>
+        <h3>✨ SARGANI-MD</h3>
         <p><em>Founder & Lead Developer</em></p>
         <img src="https://avatars.githubusercontent.com/u/192448037?v=4" width="150" style="border-radius: 50%; border: 5px solid #00ffff; box-shadow: 0 0 30px cyan;">
         <pre style="background: #111; padding: 10px; border-radius: 15px;">
@@ -254,12 +254,12 @@ Role: Visionary Creator
 Expertise: Full Stack AI
 Passion: Innovation</pre>
         <p>
-          <a href="https://github.com/bosstech-collab/Boss-md-"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-          <a href="https://wa.me/+923076411099"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+          <a href="https://github.com/sarganitech-collab/king-md-"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+          <a href="https://wa.me/+923053101799"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
         </p>
       </td>
       <td align="center" width="50%">
-        <h3>⭐ BOSS-MD AND BRO ARSLAN</h3>
+        <h3>⭐ SARGANI-MD AND BRO MASOOD</h3>
         <p><em>Co-Founder & Tech Lead</em></p>
         <img src="https://avatars.githubusercontent.com/u/192448037?v=4" width="150" style="border-radius: 50%; border: 5px solid #f093fb; box-shadow: 0 0 30px magenta;">
         <pre style="background: #111; padding: 10px; border-radius: 15px;">
@@ -268,7 +268,7 @@ Expertise: System Architecture
 Passion: Cutting-edge Tech</pre>
         <p>
           <a href="https://github.com/Arslan-MD/Arslan_MD"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-          <a href="https://wa.me/+923392616263"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+          <a href="https://wa.me/+923053101799"><img src="https://whatsapp.com/channel/0029VbBfSNwHVvTWSVv5bM12"></a>
         </p>
       </td>
     </tr>
