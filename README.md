@@ -15,7 +15,7 @@
 <h1 align="center">
 <!-- GLOWING MAIN BADGE -->
 <div align="center">
-  <img src="https://img.shields.io/badge/🔥_MASOOD_MD_ULTRA_PRO_MAX_EDITION-FF00FF?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000" alt="BOSS-MD Ultra Pro Max" />
+  <img src="https://img.shields.io/badge/🔥_MASOOD_MD_ULTRA_PRO_MAX_EDITION-FF00FF?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000" alt="MASOOD-MD Ultra Pro Max" />
 </div>
 
 ---
@@ -95,10 +95,10 @@
 </a>
 
 <a href="https://github.com/Boss-MD/BALOCH-Ai">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Boss-MD&repo=Boss-Ai&theme=dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MASOOD-MD&repo=MASOOD-Ai&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/Boss-MD/IvaSms-api">
+<a href="https://github.com/MASOOD-MD/IvaSms-api">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=king-MD&repo=IvaSms-api&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
@@ -164,10 +164,10 @@
     <a href="https://dashboard.heroku.com/new?template=https://github.com/bosstech-collab/Boss-md-">
       <img src="https://img.shields.io/badge/DEPLOY-HEROKU-7952B3?style=for-the-badge&logo=heroku&logoColor=white&labelColor=black" />
     </a>
-    <a href="https://railway.app/new/template?template=https://github.com/bosstech-collab/Boss-md-">
+    <a href="https://railway.app/new/template?template=https://github.com/sarganistech-collab/sargani-md-">
       <img src="https://img.shields.io/badge/DEPLOY-RAILWAY-8A2BE2?style=for-the-badge&logo=railway&logoColor=white&labelColor=black" />
     </a>
-    <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/bosstech-collab/Boss-md-">
+    <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/osarganitech-collab/masood-md-">
       <img src="https://img.shields.io/badge/DEPLOY-KOYEB-00BFFF?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=black" />
     </a>
     <a href="https://render.com/deploy?repo=https://github.com/sarganitech-collab/sargani-md-">
@@ -179,9 +179,9 @@
   <h2>📡 WhatsApp Connections</h2>
   <p align="center">
     <a href="https://whatsapp.com/channel/0029VbBfSNwHVvTWSVv5bM12">
-      <img src="https://img.shields.io/badge/JOIN-CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black" />
+      <img src="https://whatsapp.com/channel/0029VbBfSNwHVvTWSVv5bM12" />
     </a>
-    <a href="https://api.whatsapp.com/send?phone=+923487690170&text=Hello+SARGANI">
+    <a href="https://api.whatsapp.com/send?phone=+923053101799&text=Hello+SARGANI">
       <img src="https://img.shields.io/badge/CONTACT-OWNER-ff0000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black" />
     </a>
     <a href="https://whatsapp.com/channel/0029VbBfSNwHVvTWSVv5bM12">
@@ -200,7 +200,7 @@
   </p>
   
   <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=🌈✨+Thanks+for+using+BOSS-MD+✨🌈" alt="Thanks">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=🌈✨+Thanks+for+using+MASOOD-MD+✨🌈" alt="Thanks">
   </h2>
 
   <p align="center">
@@ -215,7 +215,7 @@
     <br>
     <pre style="background: black; color: lime; padding: 20px; border-radius: 15px; border: 2px solid magenta; text-align: left;">
 # Clone Repository
-git clone https://github.com/bosstech-collab/Boss-md-
+git clone https://github.com/MASOODtech-collab/sargani-md-
 cd SARGANI-md-
 
 # Install Dependencies
@@ -366,18 +366,18 @@ Passion: Cutting-edge Tech</pre>
 
   <!-- FINAL ANIMATED MESSAGE -->
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=4ECDC4&center=true&vCenter=true&width=900&height=70&lines=🌟+Thank+you+for+choosing+BOSS-MD!+🌟;💫+Join+thousands+of+satisfied+users+💫;🚀+Start+your+automation+journey+today!+🚀" alt="Thank You Message">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=4ECDC4&center=true&vCenter=true&width=900&height=70&lines=🌟+Thank+you+for+choosing+MASOOD-MD!+🌟;💫+Join+thousands+of+satisfied+users+💫;🚀+Start+your+automation+journey+today!+🚀" alt="Thank You Message">
   </div>
 
   <br>
   <p align="center">
-    <b>© 2026 BOSS-MD Team | Made with 💝 by passionate developers</b>
+    <b>© 2026 MASOOD-MD Team | Made with 💝 by passionate developers</b>
   </p>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square" alt="Made with Love">
     <img src="https://img.shields.io/badge/Sri%20Lanka-🇱🇰-green?style=flat-square" alt="Made in Sri Lanka">
     <img src="https://img.shields.io/badge/Open%20Source-💝-orange?style=flat-square" alt="Open Source">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=bosstech-collab.Boss-md-" alt="Visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=MASOODtech-collab.Sargani-md-" alt="Visitors">
   </p>
 </div>
