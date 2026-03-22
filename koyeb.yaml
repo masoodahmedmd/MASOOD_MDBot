@@ -1,6 +1,6 @@
-name: Boss-md
+name: MASOOD-md
 services:
-  - name: Boss-Hacker-service
+  - name: PATHAN-Hacker-service
     type: web
     ports:
       - 5000
